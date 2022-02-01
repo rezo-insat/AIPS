@@ -23,7 +23,7 @@ Ce dépôt inclut le code source initial fourni pour démarrer le BE ainsi qu’
 
 3. Création d’un dépôt Etudiant sur GitHub pour le BE prog. C & réseau
   
-   Créer une copie du dépôt template enseignant : XYZW , en vous y rendant et en cliquant sur le bouton « use this template » situé dans le coin en haut, plutôt à droite de la page. 
+   Créer une copie du dépôt template enseignant : https://github.com/rezo-insat/BE_Prog_C_Reseau.git , en vous y rendant et en cliquant sur le bouton « use this template » situé dans le coin en haut, plutôt à droite de la page. 
 
 4. Créer un clone local de votre dépôt Github, i.e. une copie locale du dépôt sur votre compte insa. 
   
