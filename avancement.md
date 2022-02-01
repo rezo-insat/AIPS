@@ -1,10 +1,10 @@
 Veuillez renseigner votre avancement à chaque étape achevée et testée et par défaut à la fin de chaque séance de TP 
-# Partie 1 du BE 
+# Avancement sur la Partie 1 du BE 
 
 ## Version 1 de tsock 
 L'objectif principal de la 1ère séance est de développer la v1 de tsock: coder une version de la source et une version du puit capables d'échanger des messages en utilisant le service UDP.  Vous pouvez décomposer le travail en deux parties successives: la version "source" de "tsock" puis celle du "puit". Vous pouvez tester chaque étape de manière isolée, en utilisant la version enseignant de tsock (en la configurant comme puit, pour tester votre source ou en tant que sourcenetcat , pour votre version du puit).  Cela néanmoins suppose que vous soyez connecté(e) sur une machine INSA via le client VPN. A défaut, vous pouvez  utiliser l'utilitaire nc (netcat), disponible sous les différents systèmes d'exploitation. 
 
-### Point sur la partie SOURCE UDP
+### Avancement sur la partie SOURCE UDP
 veuillez cocher les seules cases qui correspondent aux étapes validées.  
 
 [ ] la gestion des options -s, -u,  le nombre et Taille par défaut des messages , nom de la machine destinataire,  numéro de port du puit est opérationnelle
@@ -15,7 +15,7 @@ veuillez cocher les seules cases qui correspondent aux étapes validées.
 
 [ ] la réception côté puit (sur nc ou la version "enseignant" de tsock) des messages envoyés par votre client est correcte
 
-### Point sur la partie puit UDP.
+### Avancement Point sur la partie puit UDP.
 
 [ ] la prise en compte de l' option -p est correcte
 
@@ -25,7 +25,7 @@ veuillez cocher les seules cases qui correspondent aux étapes validées.
 
 [ ] l'échange de messages tq décrits dans le cahier des charges entre vos versions source et puit de la version 1 de "tsock" est opérationnel
 
-## avancement sur la version 2 de tsock
+## Avancement sur la version 2 de tsock
 La version 2 intègre l’utilisation de TCP pour l’échange des messages. Veuillez renseigner les étapes que vous avez traitées.  
 
 [ ] la création du socket TCP local du puit et la construction de son adresse est correcte
@@ -36,7 +36,7 @@ La version 2 intègre l’utilisation de TCP pour l’échange des messages. Veu
 
 [ ] l'échange de messages entre vos versions source et puit de la version 1 de "tsock" est opérationnel
 
-## avancement version 3 de tsock
+## Avancement version 3 de tsock
 
 La version v3 de tsock intègre les fonctions de formatage et d'affichage des messages émis et reçus (selon le cahier des charges) ainsi que la gestion des options restantes : -n  et -l. Si toutes les fonctionnalités additionnelles de la version 3 sont validées par vos tests, vous devez cocher toutes les cases suivantes. Si ce n'est pas le cas, veuillez cocher les seules cases qui correspondent aux étapes validées.  
 
@@ -51,7 +51,7 @@ La version v3 de tsock intègre les fonctions de formatage et d'affichage des me
 [ ] la prise en compte de l'option -l est correcte
 
 
-# Avancement PARTIE 2 du BE : Système de boites aux lettres 
+# PARTIE 2 du BE : Système de boites aux lettres 
 ## Travail à réaliser
 
 Très grossièrement, comme indiqué dans la simplification du sujet de BE qui vous a été transmise vous aurez successivement à développer : 
@@ -91,7 +91,7 @@ Le Récepteur  (l'option "-r" de tsock) : qui est une adaptation de la version v
 
 ## Avancement sur la partie 2
 
-### Pour ce qui est de l'émetteur (l'option "-e" de tsock)
+### Pour les fonctionnalités de l'émetteur (l'option "-e" de tsock)
  veuillez indiquer les étapes que vous avez validées.
 
 [ ] demande d'établissement de connexion TCP avec le serveur BAL fonctionnelle
@@ -123,7 +123,7 @@ veuillez indiquer étapes que vous avez validées
 [ ] vérification de la présence d'une BAL associée à un récepteur et renvoi de l'accès à la liste des messages disponibles pour le récepteur est fonctionnelle
 
 
-### Pour ce qui est du "Récepteur" (l'option "-e" de tsock) 
+### Pour les fonctionnalités du "Récepteur" (l'option "-e" de tsock) 
 veuillez indiquer les étapes que vous avez validées.
 
 [ ] demande de l'établissement de connexion TCP avec le serveur BAL est fonctionnelle
