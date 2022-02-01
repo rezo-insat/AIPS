@@ -34,7 +34,7 @@ Ce dépôt inclut le code source initial fourni pour démarrer le BE ainsi qu’
 
     Vous avez désormais une copie locale de votre dépôt, que vous pouvez mettre à jour et modifier à volonté au gré de votre avancement sur le BE. 
 
-5. Afin de nous permettre d’avoir accès à votre dépôt, merci de bien vouloir renseigner cette url dans le fichier suivant : 
+5. Afin de nous permettre d’avoir accès à votre dépôt, merci de bien vouloir renseigner le fichier se trouvant sur moodle.
 
 ## Build et lancement de tsock
 
