@@ -12,7 +12,7 @@ Les détails du sujet du BE est accessible :  https://urlz.fr/98al
 Ce dépôt inclut le code source initial fourni pour démarrer le BE ainsi qu’un fichier nous permettant de suivre votre avancement. Plus précisément : 
   - README.md qui notamment décrit la préparation de l’environnement de travail et le suivi des versions de votre travail; 
   - tsock_v0.c : code initial fourni pour démarrer la première partie du BE. 
-  - avancement.md qui explicite un point sur votre avancement. Ce point est à renseigner à chaque fin d’étape et par défaut à la fin de chaque séance de TP 
+  - avancement.md qui explicite votre avancement sur les différentes parties du BE. Ce point est à renseigner à chaque fin d’étape et par défaut à la fin de chaque séance de TP 
 
 
 ## Création du dépôt BE prog. C &  Réseau  
@@ -86,7 +86,7 @@ Au moment de pousser votre travail sur la branche
 
 ## Suivi de votre avancement 
 
-Un fichier avancement vous est fourni avec des étapes prédéfinies et discutées en TDs. A chaque étape terminée, veuillez le renseigner dans le fichier avancement. Par défaut, mettez à jour ce fichier en fin de séance. 
+Un fichier avancement.md vous est fourni avec des étapes prédéfinies et discutées en TDs. A chaque étape terminée, veuillez le mettre à jour en conséquence. Par défaut, mettez à jour ce fichier en fin de séance. 
 
 
 ## Liens utiles 
