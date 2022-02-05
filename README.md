@@ -55,7 +55,7 @@ Pour répercuter les changements que vous faites sur votre répertoire de travai
  
     git add .
     git commit -m «un message décrivant la mise à jour»
-    git push origin main
+    git push
 
 
 - Creation d’une branche pour la partie 2 du BE
