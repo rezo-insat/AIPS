@@ -34,7 +34,7 @@ Ce dépôt inclut le code source initial fourni pour démarrer le BE ainsi qu’
 
     Vous avez désormais une copie locale de votre dépôt, que vous pouvez mettre à jour et modifier à volonté au gré de votre avancement sur le BE. 
 
-5. Afin de nous permettre d’avoir accès à votre dépôt, merci de bien vouloir renseigner le fichier se trouvant sur moodle.
+5. Afin de nous permettre d’avoir accès à votre dépôt, merci de bien vouloir renseigner l'URL de votre dépôt sur le fichier (accessible depuis "Lien vers le fichier dépôts étudiants") se trouvant sur moodle (au bas de la section 3: "Bureau d'étude (BE) Prog C et Réseau").
 
 ## Build et lancement de tsock
 
