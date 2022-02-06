@@ -49,7 +49,7 @@ Pour lancer l’exécutable, à titre d’exemple, en tant que puit :
 
 ## Suivi de versions de votre travail du BE
 
-Vous pouvez travailler comme vous le souhaitez sur le contenu du répertoire local. Vous pouvez mettre à jour les fichier existants, rajouter d’autres ainsi que des dossiers et en retirer certains à votre guise. 
+Vous pouvez travailler comme vous le souhaitez sur le contenu du répertoire local. Vous pouvez mettre à jour les fichiers existants, rajouter d’autres ainsi que des dossiers et en retirer certains à votre guise. 
 
 Pour répercuter les changements que vous faites sur votre répertoire de travail local sur le dépôt central GitHub, sur votre terminal, taper :
  
