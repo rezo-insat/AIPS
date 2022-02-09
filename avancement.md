@@ -2,7 +2,7 @@ Veuillez renseigner votre avancement à chaque étape achevée et testée et par
 
 NOMs & prénoms du groupe étudiants :  "A RENSEIGNER SVP "
 
-# Avancement sur la Partie 1 du BE 
+# Avancement sur la Partie TP AIPS - Mise en oeuvre de l'application tsock 
 
 ## Version 1 de tsock 
 L'objectif principal de la 1ère séance est de développer la v1 de tsock: coder une version de la source et une version du puit capables d'échanger des messages en utilisant le service UDP.  Vous pouvez décomposer le travail en deux parties successives: la version "source" de "tsock" puis celle du "puit". Vous pouvez tester chaque étape de manière isolée, en utilisant la version enseignant de tsock (en la configurant comme puit, pour tester votre source ou en tant que sourcenetcat , pour votre version du puit).  Cela néanmoins suppose que vous soyez connecté(e) sur une machine INSA via le client VPN. A défaut, vous pouvez  utiliser l'utilitaire nc (netcat), disponible sous les différents systèmes d'exploitation. 
