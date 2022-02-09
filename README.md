@@ -3,7 +3,7 @@
 
 L'objectif des TPs AIPS est de vous permettre de prendre en main de l’API socket avec comme objectif de mettre en oeuvre l’application « tsock » utilisée dans le TP d’introduction aux réseaux. Le langage de programmation utilisé est le C. Ces TPs sont une étape de préparation au BE AIPS.
 
-Les détails du sujet du BE est accessible sur le cours "Programmation Système et Réseau" sur moodle.
+Les détails du sujet du BE est accessible https://cutt.ly/QkiK9vh ainsi que sur le cours "Programmation Système et Réseau" sur moodle.
 
 
 ## Contenu du dépôt « template » fourni
