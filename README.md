@@ -1,11 +1,9 @@
-# BE_Prog_C_Reseau
-## BE Programmation C et réseau - 3 IMACS
+# AIPS
+## TPs AIPS - 3 MIC
 
-L'objectif du BE est de réaliser une application distribuée de boîtes aux lettres sur Internet, utilisant l'API socket. Le langage de programmation utilisé est le C. Le travail à réaliser en TP est décomposé en 2 parties : 
-  - la 1ère partie est principalement dédiée à la prise en main de l’API socket avec comme objectif de mettre en oeuvre l’application « tsock » utilisée dans le TP d’introduction aux réseaux, 
-  - la 2ème partie traite vise le développement du système de boites aux lettres suscité. 
+L'objectif des TPs AIPS est de vous permettre de prendre en main de l’API socket avec comme objectif de mettre en oeuvre l’application « tsock » utilisée dans le TP d’introduction aux réseaux. Le langage de programmation utilisé est le C. Ces TPs sont une étape de préparation au BE AIPS.
 
-Les détails du sujet du BE est accessible :  https://urlz.fr/98al
+Les détails du sujet du BE est accessible sur le cours "Programmation Système et Réseau" sur moodle.
 
 
 ## Contenu du dépôt « template » fourni
@@ -58,8 +56,8 @@ Pour répercuter les changements que vous faites sur votre répertoire de travai
     git push
 
 
-- Creation d’une branche pour la partie 2 du BE
-Au moment du démarrage de la partie 2, vous créerez une nouvelle branche à votre projet, à partir de laquelle vous développerez la partie 2. Sur votre dépôt, les deux parties de votre travail  coexisteront sur deux branches différentes. 
+- Creation d’une branche pour le du BE
+Au moment du démarrage du BE, vous créerez une nouvelle branche à votre projet, à partir de laquelle vous développerez le travail qui vous sera demandé. Sur votre dépôt, les deux parties de votre travail  coexisteront sur deux branches différentes. 
 
 Créer une branche « BAL » , en tapant la commande suivante sur votre terminal :
 
