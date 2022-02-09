@@ -1,6 +1,6 @@
 Veuillez renseigner votre avancement à chaque étape achevée et testée et par défaut à la fin de chaque séance de TP 
 
-NOMs & prénoms du groupe étudiants :  <A RENSEIGNER> 
+NOMs & prénoms du groupe étudiants :  "A RENSEIGNER SVP "
 
 # Avancement sur la Partie 1 du BE 
 
